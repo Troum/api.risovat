@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="12c2a041-72b9-4e48-9cad-e950afbd52c2" name="API Risovat" url="http://hostru08.fornex.host">
+        <fileTransfer host="hostru08.fornex.host" port="21" rootFolder="/public_html/risovat.xyz/api">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cba7c843-70a3-4ed1-a60c-4159507d0250" name="API Risovat REG RU" url="http://scp52.hosting.reg.ru">
+        <fileTransfer host="scp52.hosting.reg.ru" port="21" rootFolder="/public_html/risovat.site">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

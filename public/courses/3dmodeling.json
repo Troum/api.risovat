@@ -1,0 +1,28 @@
+{
+  "3dmodeling": [
+    {
+      "id": "card-1",
+      "connections": ["card-2", "card-3"],
+      "title": "card-1",
+      "content": "card-1"
+    },
+    {
+      "id": "card-2",
+      "connections": ["card-4"],
+      "title": "card-2",
+      "content": "card-2"
+    },
+    {
+      "id": "card-3",
+      "connections": [],
+      "title": "card-3",
+      "content": "card-3"
+    },
+    {
+      "id": "card-4",
+      "connections": [],
+      "title": "card-4",
+      "content": "card-4"
+    }
+  ]
+}
